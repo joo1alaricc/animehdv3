@@ -1,5 +1,5 @@
 {
-  "name": "animex---neo-brutalism-streaming",
+  "name": "kanatanime-v3",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,10 +10,12 @@
   },
   "dependencies": {
     "react": "^19.2.3",
-    "react-dom": "^19.2.3"
+    "react-dom": "^19.2.3",
+    "react-router-dom": "^7.11.0"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
+    "@types/react": "^19.2.7",
     "@vitejs/plugin-react": "^5.0.0",
     "typescript": "~5.8.2",
     "vite": "^6.2.0"
