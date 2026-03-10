@@ -29,12 +29,12 @@ const AuthorPage = () => {
 
   const authors: Author[] = [
     {
-      name: 'Roynaldi',
+      name: 'Bryan Eily',
       role: 'Owner & Author Utama',
-      github: 'https://github.com/idlanyor',
+      github: 'https://github.com/joo1alaricc',
       description: 'Developer utama KanataAnimeV2. Bertanggung jawab untuk pengembangan frontend dan UI/UX aplikasi.',
-      avatar: 'https://github.com/idlanyor.png',
-      website: 'https://idlanyor.web.id',
+      avatar: 'https://uploader.zenzxz.dpdns.org/uploads/1773181608663.jpeg',
+      website: 'https://personal-portfolio-wine-pi-33.vercel.app',
       skills: ['React', 'Next.js', 'TypeScript', 'Tailwind CSS', 'Bun', 'Elysia'],
       color: 'yellow'
     },
@@ -59,12 +59,10 @@ const AuthorPage = () => {
       color: 'purple'
     },
     {
-      name: 'Antidonasi Member',
+      name: 'Ihsan Rayand',
       role: 'Supporter Project',
-      github: 'https://github.com/AntiDonasi',
-      description: 'Pendukung setia Project KanataAnimeV2',
+      description: 'Pendukung setia Project AnimeHD',
       avatar: 'https://github.com/AntiDonasi.png',
-      website: 'https://antidonasi.web.id/',
       skills: ['Rebahan', 'Tidur', 'Nonton Anime', 'etc'],
       color: 'mint'
     }
@@ -152,7 +150,7 @@ const AuthorPage = () => {
             <div className="pt-4">
               <div className="inline-flex items-center gap-3 px-6 py-3 bg-[var(--primary)]/10 text-[var(--primary)] rounded-full text-lg font-bold border border-[var(--primary)]/20 shadow-lg shadow-green-500/10">
                 <span className="w-2 h-2 bg-[var(--primary)] rounded-full animate-pulse"></span>
-                Powered by AntiDonasi Team
+                Powered by Eily Team
               </div>
             </div>
          </div>
