@@ -62,7 +62,7 @@ const AuthorPage = () => {
       name: 'Ihsan Rayand',
       role: 'Supporter Project',
       description: 'Pendukung setia Project AnimeHD',
-      avatar: 'https://github.com/AntiDonasi.png',
+      avatar: 'https://uploader.zenzxz.dpdns.org/uploads/1773182593739.jpeg',
       skills: ['Rebahan', 'Tidur', 'Nonton Anime', 'etc'],
       color: 'mint'
     }
