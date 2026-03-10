@@ -32,9 +32,9 @@ const AuthorPage = () => {
       name: 'Bryan Eily',
       role: 'Owner & Author Utama',
       github: 'https://github.com/joo1alaricc',
-      description: 'Developer utama KanataAnimeV2. Bertanggung jawab untuk pengembangan frontend dan UI/UX aplikasi.',
+      description: 'Bertanggung jawab untuk pengembangan frontend dan UI/UX aplikasi.',
       avatar: 'https://uploader.zenzxz.dpdns.org/uploads/1773181608663.jpeg',
-      website: 'https://personal-portfolio-wine-pi-33.vercel.app',
+      
       skills: ['React', 'Next.js', 'TypeScript', 'Tailwind CSS', 'Bun', 'Elysia'],
       color: 'yellow'
     },
